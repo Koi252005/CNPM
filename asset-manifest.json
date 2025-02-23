@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CNPM/static/css/main.259b7366.css",
+    "main.js": "/CNPM/static/js/main.e3613fe7.js",
+    "index.html": "/CNPM/index.html",
+    "main.259b7366.css.map": "/CNPM/static/css/main.259b7366.css.map",
+    "main.e3613fe7.js.map": "/CNPM/static/js/main.e3613fe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.259b7366.css",
+    "static/js/main.e3613fe7.js"
+  ]
+}
